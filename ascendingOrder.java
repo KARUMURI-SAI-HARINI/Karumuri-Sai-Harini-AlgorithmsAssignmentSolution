@@ -1,7 +1,6 @@
 package gradedassignment;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class ascendingOrder extends FinancialStockers {
 	public void ascending() {
